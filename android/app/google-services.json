@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260293907781",
+    "project_id": "mailfl",
+    "storage_bucket": "mailfl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260293907781:android:3d7717f2569811ffa8da2c",
+        "android_client_info": {
+          "package_name": "com.example.flutteremailpasse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXr_TQmtCCh0bo3xdEfcHEqUTXoq9ywAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
